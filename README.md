@@ -9,4 +9,5 @@ Capacity =  items/itemLimit
 @ less 25% capacity, half the limit
 
 **Do it without using an 'if' statement.**
+
 Boolean to Number typcasting -- +(logicalExpression) -- is frowned upon.
